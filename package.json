@@ -1,0 +1,9 @@
+{
+	"name": "Screen_Scrape_with_SSL_Token",
+	"description": "Scrape_It",
+	"author": "Win",
+	"dependencies": {
+		"request": "2.42.0",
+		"cheerio" : "0.17.0"
+	}
+}
